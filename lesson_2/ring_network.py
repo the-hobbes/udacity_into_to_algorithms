@@ -22,6 +22,7 @@ class RingGraph:
     self.a_ring = a_ring
 
   def make_link_(self, G, node1, node2):
+    print G, node1, node2
     '''
       Takes a graph and two nodes and establishes a connection between them.
 

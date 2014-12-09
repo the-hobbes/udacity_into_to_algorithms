@@ -1,0 +1,6 @@
+Recursion:
+  https://www.youtube.com/watch?v=ozmE8G6YKww
+Tight bounds:
+  http://stackoverflow.com/questions/464078/difference-between-lower-bound-and-tight-bound
+Complexity analysis:
+  http://discrete.gr/complexity/
